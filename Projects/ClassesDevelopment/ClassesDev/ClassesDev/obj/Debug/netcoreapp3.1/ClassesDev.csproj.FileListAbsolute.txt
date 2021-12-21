@@ -1,0 +1,14 @@
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.csproj.AssemblyReference.cache
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.GeneratedMSBuildEditorConfig.editorconfig
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.AssemblyInfoInputs.cache
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.AssemblyInfo.cs
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.csproj.CoreCompileInputs.cache
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\bin\Debug\netcoreapp3.1\ClassesDev.exe
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\bin\Debug\netcoreapp3.1\ClassesDev.deps.json
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\bin\Debug\netcoreapp3.1\ClassesDev.runtimeconfig.json
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\bin\Debug\netcoreapp3.1\ClassesDev.runtimeconfig.dev.json
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\bin\Debug\netcoreapp3.1\ClassesDev.dll
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\bin\Debug\netcoreapp3.1\ClassesDev.pdb
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.dll
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.pdb
+R:\000 Ross Storage\GitHub\csharpDev\Projects\ClassesDevelopment\ClassesDev\ClassesDev\obj\Debug\netcoreapp3.1\ClassesDev.genruntimeconfig.cache
